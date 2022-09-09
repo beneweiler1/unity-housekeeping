@@ -1,5 +1,8 @@
 # unity-housekeeping
 
-A starter kit for a blank Unity project.
+First unity project.
 
-Unity version 2021.3.9f1
+Scirips are located in assets.
+Rotator: animator for red pill object. Rotates object
+Shifter: for watermellon; moves object on y axis at a variable speed.
+
