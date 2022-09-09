@@ -1,5 +1,7 @@
 # unity-housekeeping
 
-A starter kit for a blank Unity project.
+First Unity project:
 
-Unity version 2021.3.9f1
+Demo video available: https://drive.google.com/file/d/1qy4EorymW0qr8yubQv0JCIZyb7Z5cV0h/view?usp=sharing
+
+Scripts are located in 
